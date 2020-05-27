@@ -10,6 +10,7 @@
     "angular-loader": "^1.7.5",
     "angular-route": "^1.7.5",
     "html5-boilerplate": "0.0.1",
+    "live-server": "^1.2.1",
     "sockjs": "^0.3.20"
   },
   "devDependencies": {
